@@ -1,4 +1,5 @@
-# Glitch in Bio!
+# <href="https://jedi-socials.glitch.me">GLITCH IN BIO!
+<img width="599" alt="Screenshot 2023-09-12 at 5 04 49 AM" src="https://github.com/sudo-self/Galaxy-Card/assets/119916323/b1410353-3071-42fe-a6a6-d1c64e539fa0">
 
 Your links, your way. A link-in-bio app you can customize any way you want.
 
@@ -8,17 +9,12 @@ Your links, your way. A link-in-bio app you can customize any way you want.
 
 ### 1. Remix this app for your own, live version in seconds
 
-Then click **Preview** at the bottom of this window and then **Preview in new window** to see the live app in its own window, with a free `glitch.me` domain ready to share. 
-
-📝 _Make sure to log into Glitch to save your new app or else it will expire in 5 days._
-
 
 ### 2. Edit `settings.json` to add your own info and links
 
 Replace the meta info, links and social sites we added for you in `settings.json` and you'll see your changes instantly updated in real time! 
 
 If you want to include images, upload them in `assets` and copy the URLs into your settings JSON too–_make sure you have a theme selected that shows images like `gallery` or `menu`_.
-
 
 ### 3. Choose a theme
 
