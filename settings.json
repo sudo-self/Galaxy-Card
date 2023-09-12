@@ -1,0 +1,58 @@
+{
+  "metaTitle": "Jedi",
+  "metaDescription": "Building useful thngs for the planet",
+  "name": "Jay the Jedi",
+  "theme": "glitch",
+  "avatarImage":"https://i.ibb.co/9rQwkLy/Screenshot-2023-07-28-at-1-20-19-AM.png",
+  "links": [
+    {
+      "url": "https://sudo-self.github.io/posts/projects/",
+      "text": "[::::::::|==============💥]"
+      ,
+      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484",
+      "altText": "Glitch blue generative art"
+    },
+    {
+      "url": "https://smb3.jessejesse.com",
+      "text": "Super Mario Bros 3 SNES ONLINE",
+      "img": ""
+    },
+    {
+      "url": "https://sudo-self.github.io/",
+      "text": "Jekyll Base",
+      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+    }
+  ],
+  "social": {
+    "glitch": "https://jedi-socials.glitch.me/",
+    "arena": "",
+    "bandcamp": "",
+    "cohost": "",
+    "dev": "https://dev.to/glitch",
+    "facebook": "",
+    "github": "https://github.com/sudo-self/",
+    "gitlab": "https://sudo-self.githut.io",
+    "hashnode": "",
+    "instagram": "https://instagram/JR85er",
+    "keybase": "",
+    "kofi": "",
+    "letterboxd": "",
+    "linkedin": "https://https://www.linkedin.com/in/jrsdevelopments/",
+    "mastodon": "https://jessejesse.com",
+    "medium": "",
+    "patreon": "",
+    "pinboard": "",
+    "pinterest": "",
+    "podcast": "",
+    "soundcloud": "",
+    "spotify": "",
+    "stackoverflow": "",
+    "substack": "",
+    "twitter": "https://twitter.com/ilostmyipad",
+    "twitch": "",
+    "tiktok": "",
+    "tumblr": "",
+    "youtube": "https://www.youtube.com/",
+    "email": "Tech@JesseJesse.com"
+  }
+}
